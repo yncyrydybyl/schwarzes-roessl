@@ -1,0 +1,1426 @@
+{
+  "generated_from": "/home/t/Nextcloud/.Collectives/HausPlan",
+  "floors": [
+    "Erdgeschoss",
+    "1. Stock",
+    "2. Stock",
+    "1. Hof",
+    "2. Hof",
+    "Sonnendeck",
+    "Vorgarten",
+    "Wellness Garten",
+    "Haus Fassade",
+    "Mängelliste"
+  ],
+  "floors_meta": {
+    "1. Hof": "In der Mitte hängt eine Diskokugel.",
+    "Wellness Garten": "\n<https://www.finnwerk.de/fasssauna-deluxe.html>\n\nmit Panoramafenster richtung krems-fluss.\n\nVorraum ist wichtig weil sie auch ohne Kaminzimmer nutzbar sein soll. Dieser Vorraum kann ggf. auch mitgeheizt werden, dadurch kann der Saunabereich von 6 auf max. 10 Pax erweitert werden. \\*\\*\n\nneben der sauna gibt es noch ein kl. tauchbecken und eine Dusche mit kaltem Wasser, hierfür gilt ein bisschen Wasserrohre zu verlegen, das Abwasser geht einfach in die Rinne vom Überlauf.\n\nauch wichtig für eine cosy Wellness-oase ist ein mobiler Sichtschutz entlang des dzt. Jägerzaunes.\n\nlt. Aaron müssen wir sie nicht anzeigen bei der Stadt weil unter 20m2 Gesamtfläche.\n\n---\n\n\\*\\*Nadine ist dem Vorraum gegenüber sketpisch: hält man sich da wirklich auf? Ich dachte zum Abkühlen geht man dann ganz raus.  \nUnd wenn eine größere gruppe gemeinsam saunieren will ist's  schöner wenn man zusammen sitzt und keine 2-Klassen Gesellschaft aufmacht. (aber ich lass mich da  auch gerne überzeugen).\n\nWas für ein Untergrund ist angedacht (unter und vor der Sauna) ???\n\nPanorama Fenster ist geil! (war aber im link nicht angeklickt). Ich nehme an wir nehmen das Spiegelglass.",
+    "Mängelliste": "- alle Duschabflüsse reinigen\n- alle Duschköpfe kontrollieren\n- alle Klobrillen checken\n- Putz am Haus ausbessern\n- "
+  },
+  "rooms": [
+    {
+      "id": "erdgeschoss-buero",
+      "name": "Büro",
+      "alt_name": "Office, Backoffice",
+      "floor": "Erdgeschoss",
+      "path": "/Erdgeschoss/Büro",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/Erdgeschoss/B%C3%BCro",
+      "sections": {
+        "gegenstaende": "## Türklingelempfänger\n\n## Technik regal",
+        "future_ideas": "Coworkingspace",
+        "strom_netz": "Der Kabelanschluss der zum Dach geht ist defekt.",
+        "exits": [
+          [
+            "",
+            "[KüchenFlur](https://own.fe80.eu/f/1316564)",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# PLAN\n\nLager Raus\n\nan die Wand vom Tresor ein größeres Regal für Büroaktikel und Bürountesilien \n\nzusätzliches Tisch-Paar wo jetzt Lager regal ist\n\nRollkontainer für jedes Crewmitglied damit Tische flexible genutzt werden können\n\n---\n\n---\n\n\\-\n\n# Name\n\nOffice, Backoffice\n\n# Gegenstände\n\n## Türklingelempfänger\n\n## Technik regal\n\n# Future Ideas\n\nCoworkingspace\n\n# Strom / Netz\n\nDer Kabelanschluss der zum Dach geht ist defekt.\n\n# Exits\n\n|  |            |  |\n|--|------------|--|\n|  |            |  |\n|  | [KüchenFlur](https://own.fe80.eu/f/1316564) |  |\n\n# Links\n\nEin coworkingspace in Melk -> <https://www.werkdreimelk.at/>"
+    },
+    {
+      "id": "erdgeschoss-eingangsbereich",
+      "name": "Eingangsbereich",
+      "alt_name": "",
+      "floor": "Erdgeschoss",
+      "path": "/Erdgeschoss/Eingangsbereich",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/Erdgeschoss/Eingangsbereich",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "\n# PLAN\n\n- BODEN: \n  - Kacheln entfernen, oder färben, oder Linoleum-Belag drüber\n- HOLZVERTÄFELUNGEN: \n  - lackieren\n- WÄNDE / DECKEN: \n  - Grundfarbe weiss\n  - Horizontlinie Farbe vom Boden wieder aufgreifen, nur heller\n- EINRICHTUNG: \n  - Alten Rezpetions Counter upcyclen\n  - Zimmer/Werkstätten-Schlüssel-Board\n  - Wochenprogramm display\n  - Garderobe in den Durchgang zum Hof\n\n\\________\\_\n\n# Tür\n\n# Stromkasten\n\n# Kamera\n\n# Hundefutterecke\n\n# Videoinstallation\n\n# Ideen\n\n- Schlüsselkasten\n- WelcomeScreens\n  - interaktive Bildschirme auf denen man über das Rössl und Krems in Vergangenheit. Gegenwart und Zukunft informieren kann.\n- Gaderobe\n- Wartelounge / Treffpunkt\n  - Der Raum ist sowas wie eine Nexus. Hier kommt alles zusammen. Ein schöner Ort um auf etwas oder jemanden zu Warten. Ein Gast, eine Lieferung, jemand der noch schnell was holt oder man trifft sich zum losgehen.\n- Lichtinstallation\n  - Es handelt sich um einen Raum mit wenig Licht. Daher kann hier eine Lichtinstalltion einen besonderen Ton setzen\n- Getränke für Gäste (GetränkeKühlschrank oder/oder Automat)\n- es braucht konkrete vorschläge für...\n- boden....optionen wären...aktuelle boden kacheln rausstemmen und den orginal guss stein boden wieder neu aufpoliert hervorholen, vorhandene bodenkacheln mit bodenlack überarbeiten oder mit linoleum auslegen....so oda so oda so, letztlich dann noch einen ausklopf/waschbaren teppich läufer direkt am aussentür anschluss....\n- holzverkleidungen decke / unterer wandhorizont.....neu lackieren mit neuem farbkonzept\n- restliche wände...neu streichen, dem neuem farbkonzept entsprechend\n- jedwedes gaderoben getümmel komplett in die zwischenschleuse ausgang hof verlegen\n- selbstbestückbare \"snack\" automaten (old second hand vending machines) im vorraum zu den toiletten aufstellen\n- geländer kaschierung entfernen, altes geländer begutachten und je nach bedarf und belieben upcyclen um mehr tageslicht ausbeute in den gesamten lobby bereich zu holen...\n- alten rezeptions counter upcyclen und örtlich so belassen.....\n\n# Exits\n\n[Salon](https://own.fe80.eu/apps/collectives/HausPlan-2/Salon-1316517)\n\nTreppe\n\nunterer Flur\n\nFlur zur Mamawohnung"
+    },
+    {
+      "id": "erdgeschoss-ess-zimmer",
+      "name": "Ess-Zimmer",
+      "alt_name": "",
+      "floor": "Erdgeschoss",
+      "path": "/Erdgeschoss/Ess-Zimmer/Ess-Zimmer",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/Erdgeschoss/Ess-Zimmer/Ess-Zimmer",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "[DiskoRaum](https://own.fe80.eu/f/1316605)",
+            ""
+          ],
+          [
+            "[Salon](https://own.fe80.eu/f/1316517)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "# PLAN\n\nNadine wünscht sich die drecks-Sitzbänke raus und statt dessen die schönen Wirtshaus-Tische und Stühle rein. 🧡\n\n\\________\\_\n\n\\________\\_\n\nCoworkingSpace\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|       | [DiskoRaum](https://own.fe80.eu/f/1316605) |  |\n|-------|-----------|--|\n| [Salon](https://own.fe80.eu/f/1316517) |           |  |\n|       |           |  |\n"
+    },
+    {
+      "id": "erdgeschoss-flur-vorm-buero",
+      "name": "Flur vorm Büro",
+      "alt_name": "Alternativnamen",
+      "floor": "Erdgeschoss",
+      "path": "/Erdgeschoss/Flur vorm Büro/Flur vorm Büro",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/Erdgeschoss/Flur%20vorm%20B%C3%BCro/Flur%20vorm%20B%C3%BCro",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "\n# PLAN\n\nSchrank kommt weg -> Logistic Hub (mit Lastenregal ausm Büro)\n\nNadine wünscht sich unbedingt dass wir die tollen Schranktüren zu erhalten!!!\n\nGarederobe und Spiegel wird erhalten\n\nim Logistic Hub könnten auch vorerst die Einlagerungen für wiederkehrende Gäste sein die. keine Zimmerpaten sind.\n\n# Name\n\nAlternativnamen\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "erdgeschoss-kombuese",
+      "name": "Kombüse",
+      "alt_name": "Küche, Kitchen",
+      "floor": "Erdgeschoss",
+      "path": "/Erdgeschoss/Kombüse",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/Erdgeschoss/Komb%C3%BCse",
+      "sections": {
+        "gegenstaende": "## Brandmeldeanlage\n\n## Backofen\n\n## Spülmaschine\n\n## Unifi Router\n\npropriertäre Kackscheisse",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            "[KüchenFlur](https://own.fe80.eu/f/1316642)"
+          ],
+          [
+            "",
+            "[Salon](https://own.fe80.eu/f/1316517)",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "\n# PLAN:\n\nGroßer Schrank / Regal für Lebensmittel zwischen Feueranlage und Kühlschrankl (da wo vorher der Schreibtisch stand). 40 cm tiefe langt (so wie der Scharnk der da gerade steht). Hier sollen alle Lebensmittel auf einen Blick gelagert sein.\n\nDer Voratsschrank rechts vom Kühlschrank soll künftig für Küchengeräte und Lagergläser sein. die aktuell im Schrank ggü. des Büros steht.\n\n\\__________\\_\n\n# Name\n\nKüche, Kitchen\n\n# Gegenstände\n\n## Brandmeldeanlage\n\n## Backofen\n\n## Spülmaschine\n\n## Unifi Router\n\npropriertäre Kackscheisse\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |       |            |\n|--|-------|------------|\n|  |       | [KüchenFlur](https://own.fe80.eu/f/1316642) |\n|  | [Salon](https://own.fe80.eu/f/1316517) |            |\n"
+    },
+    {
+      "id": "erdgeschoss-kombuesen-auskuck",
+      "name": "Kombüsen Auskuck",
+      "alt_name": "Alternativnamen",
+      "floor": "Erdgeschoss",
+      "path": "/Erdgeschoss/Kombüse/Kombüsen Auskuck/Kombüsen Auskuck",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/Erdgeschoss/Komb%C3%BCse/Komb%C3%BCsen%20Auskuck/Komb%C3%BCsen%20Auskuck",
+      "sections": {
+        "gegenstaende": "Router\n\nmoving head",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nAlternativnamen\n\n# Gegenstände\n\nRouter\n\nmoving head\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "erdgeschoss-mu-fu-dunkel-holodeck",
+      "name": "Mu-Fu dunkel (Holodeck)",
+      "alt_name": "",
+      "floor": "Erdgeschoss",
+      "path": "/Erdgeschoss/Mu-Fu dunkel (Holodeck)",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/Erdgeschoss/Mu-Fu%20dunkel%20%28Holodeck%29",
+      "sections": {
+        "gegenstaende": "## Soundsystem\n\n## Beamer\n\n## Lichtsystem",
+        "future_ideas": "- Raum für VideoCalls, VideoStreams\n- Raum für Kino\n- Raum für immersive Reality\n- Arbeitsplatz für Weitsichtige",
+        "strom_netz": "",
+        "exits": [
+          [
+            "[KüchenFlur](https://own.fe80.eu/f/1316642)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# PLAN:\n\nNadine wünscht sich die drecks-Sitzbänke raus. 🧡 ... und dann schöne multifunktionale Sitz/Lager-würfel ... aber bis wir die haben langt auch erst mal der Pompel raus\n\n... die Sitzbank wird neu bezogen damit wir keinen Augenkrebs bekommen.\n\n---\n\n---\n\nMultifunktionsraum 1, Kino, Frühstücksraum 1, HoloDeck, Multifunktionsraum dunkel\n\n# Gegenstände\n\n## Soundsystem\n\n## Beamer\n\n## Lichtsystem\n\n# Future Ideas\n\n- Raum für VideoCalls, VideoStreams\n- Raum für Kino\n- Raum für immersive Reality\n- Arbeitsplatz für Weitsichtige\n\n# Strom / Netz\n\n# Exits\n\n|            |  |  |\n|------------|--|--|\n| [KüchenFlur](https://own.fe80.eu/f/1316642) |  |  |\n|            |  |  |\n\nMöbelideen\n\n- <https://www.xbrick.eu/>\n- <https://vank.design/en/product/cube-desks-and-tables>\n- "
+    },
+    {
+      "id": "erdgeschoss-salon",
+      "name": "Salon",
+      "alt_name": "",
+      "floor": "Erdgeschoss",
+      "path": "/Erdgeschoss/Salon",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/Erdgeschoss/Salon",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "\n# PLAN\n\n- WÄNDE\n  - Raufaser Tapete raus\n  - Grundfarbe weiss, Horizont der Holzvertäfelung in Kamingrün weiterziehen\n- Boden:\n  - erhalten und mit zwei Teppich Inseln aufwerten\n- Bar:\n  - Erhalten, Tresen upcyclen, Barhocker neu beziehen, Kühlraum Fächer-Türen mit Tafellack überarbeiten\n- Decken Rondell / Einbauten:\n  - erhalten, ambilight stripes gegen decke einlegen und vorhandene spots gegen neue tauschen\n  - Rest vom Rezeptions Counter RAUS….\n- MÖBELBAU: \n  - Ein Sitzlandschaft in der \"Uhren Ecke\" unter Einbezug der Fensterbank\n  - länglicher Couchtisch\n  - eine Sitzbank im Fenster bei der Bar in sozialem Bezug zu den Barhockern\n  - 5 runde Hocker/sitz-Inseln\n  - runder Couchtisch unter der Decken-Ufo\n  - breitere Kaminbank\n- MÖBEL Zukauf:\n  - ein klassisches Oma Ledersofa und ein Oma Leder Ohren Sessel\n  - zwei antique kleine beistell tische\n\n\\______\\_\n\n## Kaffeemaschine\n\n# Schlüsselschrank\n\n# Klavier\n\n# Wanduhr\n\n# Leuchtschild\n\n## Ofen"
+    },
+    {
+      "id": "erdgeschoss-toilettenvorraum-durchgang-zum-hof",
+      "name": "Toilettenvorraum - Durchgang zum Hof",
+      "alt_name": "",
+      "floor": "Erdgeschoss",
+      "path": "/Erdgeschoss/Toilettenvorraum - Durchgang zum Hof/Toilettenvorraum - Durchgang zum Hof",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/Erdgeschoss/Toilettenvorraum%20-%20Durchgang%20zum%20Hof/Toilettenvorraum%20-%20Durchgang%20zum%20Hof",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "\n# PLAN\n\n- BODEN: \n  - Kacheln entfernen, oder färben, oder Linoleum-Belag drüber\n- HOLZVERTÄFELUNGEN: \n  - lackieren\n- WÄNDE / DECKEN: \n  - Grundfarbe weiss\n  - Horizontlinie Farbe vom Boden wieder aufgreifen, nur heller\n- EINRICHTUNG: \n  - Spinde für kurzfristiges Einschliessen ggü. Toiletten Vorraum\n  - Vending-Maschine im Toiletten Vorraum\n\n\\________\\_"
+    },
+    {
+      "id": "1-stock-flur-1-stock-vorne",
+      "name": "Flur 1. Stock vorne",
+      "alt_name": "",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Flur 1. Stock vorne/Flur 1. Stock vorne",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Flur%201.%20Stock%20vorne/Flur%201.%20Stock%20vorne",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "\n# PLAN:\n\n- BODEN: \n  - velour Teppich in braun RAUS!\n  - Orginal Stein Boden aufdecken und polieren\n  - Dicke, schmale KNÜPF LÄUFER von Treppenausstieg bis in beide enden…\n- DECKEN: \n  - Gebürstete Blechplatten?\n- WÄNDE: \n  - Grundfarbe weiss\n  - Horizont Streifen wie gehabt aber in hellem grau (Farbton aus Steinboden aber heller)\n  - Bilder von Carolin (Bar 25 Konfetti) bleiben erst mal hängen\n- LICHT: \n  - ??\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-flur-1-stock",
+      "name": "Flur 1.Stock",
+      "alt_name": "",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Flur 1.Stock",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Flur%201.Stock",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "\n# PLAN:\n\n- BODEN: \n  - velour Teppich in braun RAUS!\n  - Orginal Stein Boden aufdecken und polieren\n  - Dicke, schmale KNÜPF LÄUFER von Treppenausstieg bis in beide enden…\n- DECKEN:\n  - Gebürstete Blechplatten?\n- WÄNDE: \n  - Grundfarbe weiss\n  - Horizont Streifen wie gehabt aber in hellem grau (Farbton aus Steinboden aber heller)\n- LICHT: \n  - ??\n- ZIMMERTÜREN + RAHMEN:\n  - von den Künstlern des Projektes \"Rössl Kunst Räume\" mitgestalten lassen\n- MÖBEL:\n  - selbstgebaute Schmale Kasten-Schränke mit Kopf-Ablagen entlang der Wände \n  - ein Schrein am Kopfende vor Fenster -> Weisse Winkekatze (+ Zimmerspringbrunnen)\n  - flur kopf ende / fensterseite...dem vor dem heizkörper plazierten schrein einen kaschierenden rahmen der an boden, wänden und decke entlang vorsetzen, ein grosser bilder rahmen, aufdas mensch immer auf ein \"bild\" mit realer 3d tiefe zuläuft, ein backend das eine variable installation umrahmt\n\n# \n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-treppe-erdgeschoss-1-stock",
+      "name": "Treppe Erdgeschoss - 1. Stock",
+      "alt_name": "",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Treppe Erdgeschoss - 1. Stock",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Treppe%20Erdgeschoss%20-%201.%20Stock",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "# PLAN / IDEE\n\nspannend finde ich dasz unten am weg das alte geländer ...\n\nGeländer Verkofferung wegnehmen, Geländer wieder freilegen\n\n---\n\n---\n\n# --Name\n\nAlternativnamen\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-waeschekammer",
+      "name": "Wäschekammer",
+      "alt_name": "Alternativnamen",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Wäschekammer/Wäschekammer",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/W%C3%A4schekammer/W%C3%A4schekammer",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "\n# PLAN / IDEE\n\nDurchgang zum Zweit-büro (laut, für Video konverenzen) durchbrechen ??\n\n---\n\n---\n\n\\-\n\n# Name\n\nAlternativnamen\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-zimmer-12",
+      "name": "Zimmer 12",
+      "alt_name": "Captains Quarter",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Zimmer 12/Zimmer 12",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Zimmer%2012/Zimmer%2012",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nCaptains Quarter\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-zimmer-14",
+      "name": "Zimmer 14",
+      "alt_name": "Alternativnamen",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Zimmer 14",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Zimmer%2014",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "#### @[reeloy](mention://user/teloy) will hier ein Wald/JungleZimmer draus machen\n\nroom 14 konzeptvorschlag hiesse \"cabin in the woods\"",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [
+        "ZimmerPhotos/Zimmer 14/DSC00002.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC00004.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC00007.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC00017.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC00022.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC00023.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC00026.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC09991.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC09993.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC09994.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC09996.jpg",
+        "ZimmerPhotos/Zimmer 14/DSC09999.jpg"
+      ],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nAlternativnamen\n\n# Gegenstände\n\n# Future Ideas\n\n#### @[reeloy](mention://user/teloy) will hier ein Wald/JungleZimmer draus machen\n\nroom 14 konzeptvorschlag hiesse \"cabin in the woods\"\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-zimmer-15",
+      "name": "Zimmer 15",
+      "alt_name": "\"beach house\"",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Zimmer 15",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Zimmer%2015",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# Name\n\n\"beach house\"\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-zimmer-16",
+      "name": "Zimmer 16",
+      "alt_name": "",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Zimmer 16",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Zimmer%2016",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [
+        "ZimmerPhotos/Zimmer 16/DSC00028.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00030.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00032.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00038.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00040.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00042.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00044.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00048.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00049.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00050.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00053.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00054.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC00057.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC09981.jpg",
+        "ZimmerPhotos/Zimmer 16/DSC09983.jpg"
+      ],
+      "has_content": false,
+      "raw_markdown": "# Name\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-zimmer-17",
+      "name": "Zimmer 17",
+      "alt_name": "Alternativnamen",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Zimmer 17",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Zimmer%2017",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [
+        "ZimmerPhotos/Zimmer 17/DSC00061.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00066.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00067.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00068.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00069.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00072.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00073.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00075.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00076.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00078.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00082.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00084.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC00154.jpg",
+        "ZimmerPhotos/Zimmer 17/DSC09974.jpg"
+      ],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nAlternativnamen\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-zimmer-18",
+      "name": "Zimmer 18",
+      "alt_name": "",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Zimmer 18",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Zimmer%2018",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "von @[Georg](mention://user/geschuetz) gibt es Ideen mit Kaseln -> : <https://own.fe80.eu/f/1438682>  \nvon @[reeloy](mention://user/teloy) Hostel Idee mit Stockbetten",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [
+        "ZimmerPhotos/Zimmer 18/DSC00145.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC00147.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC00149.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC00152.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC00174.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09927.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09931.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09934.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09935.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09941.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09946.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09949.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09954.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09959.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09964.jpg",
+        "ZimmerPhotos/Zimmer 18/DSC09969.jpg"
+      ],
+      "has_content": true,
+      "raw_markdown": "# Name\n\n# Gegenstände\n\n# Future Ideas\n\nvon @[Georg](mention://user/geschuetz) gibt es Ideen mit Kaseln -> : <https://own.fe80.eu/f/1438682>  \nvon @[reeloy](mention://user/teloy) Hostel Idee mit Stockbetten\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-zimmer-19",
+      "name": "Zimmer 19",
+      "alt_name": "",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Zimmer 19",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Zimmer%2019",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [
+        "ZimmerPhotos/Zimmer 19/DSC00157.jpg",
+        "ZimmerPhotos/Zimmer 19/DSC00160.jpg",
+        "ZimmerPhotos/Zimmer 19/DSC00164.jpg",
+        "ZimmerPhotos/Zimmer 19/DSC00165.jpg",
+        "ZimmerPhotos/Zimmer 19/DSC00167.jpg",
+        "ZimmerPhotos/Zimmer 19/DSC00170.jpg",
+        "ZimmerPhotos/Zimmer 19/DSC00171.jpg",
+        "ZimmerPhotos/Zimmer 19/DSC00172.jpg",
+        "ZimmerPhotos/Zimmer 19/DSC09970.jpg"
+      ],
+      "has_content": false,
+      "raw_markdown": "# Name\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-zimmer-20",
+      "name": "Zimmer 20",
+      "alt_name": "",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Zimmer 20",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Zimmer%2020",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "# Name\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-zimmer-21",
+      "name": "Zimmer 21",
+      "alt_name": "",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Zimmer 21",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Zimmer%2021",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [
+        "ZimmerPhotos/Zimmer 21/DSC00086.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC00090.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC00093.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC00096.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC00097.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC00101.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC00104.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC00105.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC00108.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC00109.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC00112.jpg",
+        "ZimmerPhotos/Zimmer 21/DSC09967.jpg"
+      ],
+      "has_content": false,
+      "raw_markdown": "# Name\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-stock-zimmer-22",
+      "name": "Zimmer 22",
+      "alt_name": "",
+      "floor": "1. Stock",
+      "path": "/1. Stock/Zimmer 22/Zimmer 22",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Stock/Zimmer%2022/Zimmer%2022",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "# Name\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "2-stock-flur",
+      "name": "Flur",
+      "alt_name": "",
+      "floor": "2. Stock",
+      "path": "/2. Stock/Flur",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/2.%20Stock/Flur",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "war mit aaron gucken, darunter ist gleich der estrich. \n\nes spricht eininges dafür wieder teppichboden reinzumachen, bzw. reinmachen zu lassen von einem pfuscher, der hat die nötige erfahrung es gut und schnell zu erledigen! vor allem auf den treppen ist teppich die beste lösung.. (sc)\n\n# PLAN:\n\n- BODEN: \n  - velour Teppich in braun RAUS!\n  - Orginal Stein Boden aufdecken und polieren\n  - Dicke, schmale KNÜPF LÄUFER von Treppenausstieg bis in beide enden…\n- WÄNDE: \n  - Grundfarbe weiss\n  - Horizont Streifen wie gehabt aber in Farbe wie im Aufgang 1./2. Stock.   \n    Wenn Teppich dann tendenziell in die Farbe"
+    },
+    {
+      "id": "2-stock-treppe-1-stock-2-stock",
+      "name": "Treppe 1. Stock - 2. Stock",
+      "alt_name": "",
+      "floor": "2. Stock",
+      "path": "/2. Stock/Treppe 1. Stock - 2. Stock",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/2.%20Stock/Treppe%201.%20Stock%20-%202.%20Stock",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "diese holztreppe könnte uns noch mehr probleme machen, sie hat oben einen riss rechts im brett, der könnte beanstandet werden.\n\n# PLAN:\n\n- BODEN: \n  - velour Teppich in braun RAUS!\n  - Holzstufen freilegen und  behandeln\n- WÄNDE: \n  - Grundfarbe weiss\n  - Horizont Streifen wie gehabt aber in einem hellem grau mit stich ins Holzfarbene  (Farbton aus Holz  aber heller)"
+    },
+    {
+      "id": "2-stock-yogaraum",
+      "name": "Yogaraum",
+      "alt_name": "",
+      "floor": "2. Stock",
+      "path": "/2. Stock/Yogaraum",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/2.%20Stock/Yogaraum",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "HOLZFUSSBODEN"
+    },
+    {
+      "id": "1-hof-einfahrt",
+      "name": "Einfahrt",
+      "alt_name": "",
+      "floor": "1. Hof",
+      "path": "/1. Hof/Einfahrt",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/Einfahrt",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "aktuell Bar / Heurigen space"
+    },
+    {
+      "id": "1-hof-garage-1",
+      "name": "Garage 1",
+      "alt_name": "will Kpi mieten, langfristig Hauslager",
+      "floor": "1. Hof",
+      "path": "/1. Hof/Garage 1/Garage 1",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/Garage%201/Garage%201",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nwill Kpi mieten, langfristig Hauslager\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-hof-garage-2",
+      "name": "Garage 2",
+      "alt_name": "Georgs Garage, langefristig Textil lager",
+      "floor": "1. Hof",
+      "path": "/1. Hof/Garage 2/Garage 2",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/Garage%202/Garage%202",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nGeorgs Garage, langefristig Textil lager\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-hof-garage-3",
+      "name": "Garage 3",
+      "alt_name": "mittelfristig Töpferei",
+      "floor": "1. Hof",
+      "path": "/1. Hof/Garage 3/Garage 3",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/Garage%203/Garage%203",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nmittelfristig Töpferei\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-hof-garage-4",
+      "name": "Garage 4",
+      "alt_name": "zusammengelegt mit Garage 5 langfristig Druckwerkstatt",
+      "floor": "1. Hof",
+      "path": "/1. Hof/Garage 4/Garage 4",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/Garage%204/Garage%204",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nzusammengelegt mit Garage 5 langfristig Druckwerkstatt\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-hof-garage-5",
+      "name": "Garage 5",
+      "alt_name": "zusammengelegt mit Garage 4 langfristig Druckwerkstatt",
+      "floor": "1. Hof",
+      "path": "/1. Hof/Garage 5/Garage 5",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/Garage%205/Garage%205",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nzusammengelegt mit Garage 4 langfristig Druckwerkstatt\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-hof-garage-6",
+      "name": "Garage 6",
+      "alt_name": "Studio B (Medienwerksatt / Podcaststudio)",
+      "floor": "1. Hof",
+      "path": "/1. Hof/Garage 6/Garage 6",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/Garage%206/Garage%206",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nStudio B (Medienwerksatt / Podcaststudio)\n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-hof-garage-7",
+      "name": "Garage 7",
+      "alt_name": "Musikproduktion / Proberaum /",
+      "floor": "1. Hof",
+      "path": "/1. Hof/Garage 7/Garage 7",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/Garage%207/Garage%207",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": true,
+      "raw_markdown": "# Name\n\nMusikproduktion / Proberaum / \n\n# Gegenstände\n\n# Future Ideas\n\n# Strom / Netz\n\n# Exits\n\n|  |  |  |\n|--|--|--|\n|  |  |  |\n|  |  |  |\n"
+    },
+    {
+      "id": "1-hof-hofcafé-hofladen",
+      "name": "HofCafé - Hofladen",
+      "alt_name": "",
+      "floor": "1. Hof",
+      "path": "/1. Hof/HofCafé - Hofladen/HofCafé - Hofladen",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/HofCaf%C3%A9%20-%20Hofladen/HofCaf%C3%A9%20-%20Hofladen",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "aktuell noch \"Gärtnerei Garage\", mitztelfristig Übergangs-Siebdruckwerkstatt"
+    },
+    {
+      "id": "1-hof-holzwerkstatt",
+      "name": "Holzwerkstatt",
+      "alt_name": "",
+      "floor": "1. Hof",
+      "path": "/1. Hof/Holzwerkstatt",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/Holzwerkstatt",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": ""
+    },
+    {
+      "id": "1-hof-metalwerkstatt",
+      "name": "Metalwerkstatt",
+      "alt_name": "",
+      "floor": "1. Hof",
+      "path": "/1. Hof/Metalwerkstatt/Metalwerkstatt",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/1.%20Hof/Metalwerkstatt/Metalwerkstatt",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": "aktuell noch vermietet an Schwarze Kuchl"
+    },
+    {
+      "id": "2-hof-barn",
+      "name": "Barn",
+      "alt_name": "",
+      "floor": "2. Hof",
+      "path": "/2. Hof/Barn",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/2.%20Hof/Barn",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": ""
+    },
+    {
+      "id": "2-hof-man-cave-techniklager",
+      "name": "Man-Cave - Techniklager",
+      "alt_name": "",
+      "floor": "2. Hof",
+      "path": "/2. Hof/Man-Cave - Techniklager/Man-Cave - Techniklager",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/2.%20Hof/Man-Cave%20-%20Techniklager/Man-Cave%20-%20Techniklager",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": ""
+    },
+    {
+      "id": "2-hof-scheunentrackt-links",
+      "name": "Scheunentrackt links",
+      "alt_name": "",
+      "floor": "2. Hof",
+      "path": "/2. Hof/Scheunentrackt links",
+      "collective_url": "https://own.fe80.eu/apps/collectives/HausPlan/2.%20Hof/Scheunentrackt%20links",
+      "sections": {
+        "gegenstaende": "",
+        "future_ideas": "",
+        "strom_netz": "",
+        "exits": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "photos": [],
+      "has_content": false,
+      "raw_markdown": ""
+    }
+  ]
+}
