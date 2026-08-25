@@ -1575,6 +1575,7 @@
     0
    ],
    "height": 35,
+   "id": 1,
    "width": 41,
    "name": "start",
    "opacity": 1,
@@ -3022,6 +3023,7 @@
     1741
    ],
    "height": 35,
+   "id": 2,
    "width": 41,
    "name": "ground",
    "opacity": 1,
@@ -4469,6 +4471,7 @@
     0
    ],
    "height": 35,
+   "id": 3,
    "width": 41,
    "name": "walls",
    "opacity": 1,
@@ -5916,6 +5919,7 @@
     0
    ],
    "height": 35,
+   "id": 4,
    "width": 41,
    "name": "collisions",
    "opacity": 1,

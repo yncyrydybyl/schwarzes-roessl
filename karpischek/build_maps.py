@@ -71,10 +71,11 @@ def embedded_tileset(name, info):
         "tilewidth": TILE_SIZE,
     }
 
-def empty_layer(name, width, height, visible=True):
+def empty_layer(layer_id, name, width, height, visible=True):
     return {
         "data": [0] * (width * height),
         "height": height,
+        "id": layer_id,
         "width": width,
         "name": name,
         "opacity": 1,
@@ -187,10 +188,10 @@ def build_floor_map(floor_name, rooms, floor_index, all_floors):
     height = max(height, 20)
 
     # Layers (WA expects specific names)
-    ground = empty_layer("ground", width, height)       # floor
-    walls = empty_layer("walls", width, height)         # wall tiles (visual)
-    collisions = empty_layer("collisions", width, height, visible=False)  # collision mask
-    start = empty_layer("start", width, height, visible=False)            # start spawn
+    ground = empty_layer(2, "ground", width, height)       # floor
+    walls = empty_layer(3, "walls", width, height)         # wall tiles (visual)
+    collisions = empty_layer(4, "collisions", width, height, visible=False)  # collision mask
+    start = empty_layer(1, "start", width, height, visible=False)            # start spawn
 
     # Website/area objects
     website_objs = []
