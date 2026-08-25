@@ -1,3 +1,22 @@
+# Schwarzes Rössl & Karpischek Haus — WorkAdventure Maps
+
+## Live maps
+
+Deployed via GitHub Pages (`gh-pages` branch). Open in WorkAdventure:
+
+* [Schwarzes Rössl](https://play.workadventu.re/_/global/yncyrydybyl.github.io/schwarzes-roessl/office.tmj)
+* [Conference](https://play.workadventu.re/_/global/yncyrydybyl.github.io/schwarzes-roessl/conference.tmj)
+* [Karpischek Haus — Erdgeschoss](https://play.workadventu.re/_/global/yncyrydybyl.github.io/schwarzes-roessl/karpischek/maps/erdgeschoss.tmj) (weitere Stockwerke über die Treppen-Exits: `1_stock`, `2_stock`, `1_hof`, `2_hof`)
+
+Deployment: push to `master` builds and deploys via the "Optimize map and deploy"
+workflow; it can also be triggered manually from the Actions tab (workflow_dispatch).
+
+Local testing: `npm run dev`, then open
+`https://play.workadventu.re/_/global/localhost:5173/office.tmj`
+(or any other `.tmj` path) in the browser.
+
+---
+
 # WorkAdventure Map Starter Kit
 
 ![office map thumbnail](./office.png)
