@@ -54962,7 +54962,7 @@
     {
      "id": 21,
      "name": "site_1-hof-garage-1",
-     "type": "website",
+     "type": "area",
      "x": 1728,
      "y": 1536,
      "width": 224,
@@ -54984,13 +54984,18 @@
        "name": "openWebsiteTriggerMessage",
        "type": "string",
        "value": "Drück SPACE für Infos: Garage 1"
+      },
+      {
+       "name": "openWebsiteNewTab",
+       "type": "bool",
+       "value": true
       }
      ]
     },
     {
      "id": 23,
      "name": "site_1-hof-garage-2",
-     "type": "website",
+     "type": "area",
      "x": 1728,
      "y": 1696,
      "width": 224,
@@ -55012,13 +55017,18 @@
        "name": "openWebsiteTriggerMessage",
        "type": "string",
        "value": "Drück SPACE für Infos: Garage 2"
+      },
+      {
+       "name": "openWebsiteNewTab",
+       "type": "bool",
+       "value": true
       }
      ]
     },
     {
      "id": 25,
      "name": "site_1-hof-garage-3",
-     "type": "website",
+     "type": "area",
      "x": 1728,
      "y": 1856,
      "width": 224,
@@ -55040,13 +55050,18 @@
        "name": "openWebsiteTriggerMessage",
        "type": "string",
        "value": "Drück SPACE für Infos: Garage 3"
+      },
+      {
+       "name": "openWebsiteNewTab",
+       "type": "bool",
+       "value": true
       }
      ]
     },
     {
      "id": 27,
      "name": "site_1-hof-garage-4",
-     "type": "website",
+     "type": "area",
      "x": 1728,
      "y": 2016,
      "width": 224,
@@ -55068,13 +55083,18 @@
        "name": "openWebsiteTriggerMessage",
        "type": "string",
        "value": "Drück SPACE für Infos: Garage 4"
+      },
+      {
+       "name": "openWebsiteNewTab",
+       "type": "bool",
+       "value": true
       }
      ]
     },
     {
      "id": 29,
      "name": "site_1-hof-garage-6",
-     "type": "website",
+     "type": "area",
      "x": 1728,
      "y": 2272,
      "width": 224,
@@ -55096,13 +55116,18 @@
        "name": "openWebsiteTriggerMessage",
        "type": "string",
        "value": "Drück SPACE für Infos: Garage 6"
+      },
+      {
+       "name": "openWebsiteNewTab",
+       "type": "bool",
+       "value": true
       }
      ]
     },
     {
      "id": 31,
      "name": "site_1-hof-garage-7",
-     "type": "website",
+     "type": "area",
      "x": 1728,
      "y": 2432,
      "width": 224,
@@ -55124,13 +55149,18 @@
        "name": "openWebsiteTriggerMessage",
        "type": "string",
        "value": "Drück SPACE für Infos: Garage 7"
+      },
+      {
+       "name": "openWebsiteNewTab",
+       "type": "bool",
+       "value": true
       }
      ]
     },
     {
      "id": 33,
      "name": "site_1-hof-hofcafé-hofladen",
-     "type": "website",
+     "type": "area",
      "x": 1120,
      "y": 2432,
      "width": 160,
@@ -55152,13 +55182,18 @@
        "name": "openWebsiteTriggerMessage",
        "type": "string",
        "value": "Drück SPACE für Infos: HofCafé - Hofladen"
+      },
+      {
+       "name": "openWebsiteNewTab",
+       "type": "bool",
+       "value": true
       }
      ]
     },
     {
      "id": 35,
      "name": "site_1-hof-holzwerkstatt",
-     "type": "website",
+     "type": "area",
      "x": 1312,
      "y": 2432,
      "width": 160,
@@ -55180,13 +55215,18 @@
        "name": "openWebsiteTriggerMessage",
        "type": "string",
        "value": "Drück SPACE für Infos: Holzwerkstatt"
+      },
+      {
+       "name": "openWebsiteNewTab",
+       "type": "bool",
+       "value": true
       }
      ]
     },
     {
      "id": 37,
      "name": "site_1-hof-metalwerkstatt",
-     "type": "website",
+     "type": "area",
      "x": 1504,
      "y": 2432,
      "width": 160,
@@ -55208,13 +55248,18 @@
        "name": "openWebsiteTriggerMessage",
        "type": "string",
        "value": "Drück SPACE für Infos: Metalwerkstatt"
+      },
+      {
+       "name": "openWebsiteNewTab",
+       "type": "bool",
+       "value": true
       }
      ]
     },
     {
      "id": 39,
      "name": "site_1-hof-einfahrt",
-     "type": "website",
+     "type": "area",
      "x": 1088,
      "y": 1536,
      "width": 96,
@@ -55236,6 +55281,11 @@
        "name": "openWebsiteTriggerMessage",
        "type": "string",
        "value": "Drück SPACE für Infos: 1. Hof / Einfahrt"
+      },
+      {
+       "name": "openWebsiteNewTab",
+       "type": "bool",
+       "value": true
       }
      ]
     }
