@@ -34,23 +34,22 @@ WA.onInit().then(() => {
 
 async function runTour() {
     const tiles: [number, number][] = [
-        [13, 62],           // Büro
-        [24, 62], [28, 56], // Osträume
-        [13, 62], [13, 44], // Flur nach Norden
-        [16, 34],           // Parkplatz
-        [8, 20], [7, 8],    // Einfahrt, Garten mit Pool
-        [8, 20], [16, 34],  // zurück
-        [13, 44], [8, 55], [9, 68],   // durchs Haus nach Süden
-        [8, 76], [20, 77],  // Garten
-        [32, 74], [32, 50], // Pflasterstreifen nach Norden
-        [40, 50],           // 1. Hof
-        [56, 49], [48, 50], // Garage 1 und raus
-        [48, 65], [57, 65], [48, 66], // Druckwerkstatt (Doppeltor)
-        [43, 60],           // Hofmitte
-        [36, 71], [37, 77], [36, 71], // HofCafé
-        [42, 71], [43, 77], [42, 71], // Holzwerkstatt
-        [48, 71], [49, 77], [48, 71], // Metallwerkstatt
-        [44, 60],           // Ende: Hofmitte
+        [23, 62],           // Büro
+        [34, 62], [38, 56], // Osträume
+        [23, 62], [23, 44], // Flur nach Norden
+        [26, 34],           // 1. Hof (Parkplatz)
+        [13, 34],           // vor die Garagenzeile (Westseite)
+        [12, 37], [5, 37], [12, 37],  // Garage 1
+        [12, 21], [5, 21], [12, 21],  // Garage 5
+        [12, 9], [5, 9], [12, 9],     // HofCafé (Nordende)
+        [18, 20], [17, 8],  // Weg und Garten mit Pool
+        [18, 20], [26, 34], // zurück in den Hof
+        [33, 31], [40, 31], [33, 31], // Holzwerkstatt (Ostseite)
+        [33, 36], [40, 36], [33, 36], // Metallwerkstatt
+        [26, 34],           // Hofmitte
+        [23, 44], [18, 55], [19, 68], // durchs Haus nach Süden
+        [18, 76], [30, 77], // Garten
+        [24, 33],           // Ende: Hofmitte
     ];
     console.log('TOUR start');
     for (let i = 0; i < tiles.length; i++) {
